@@ -1,0 +1,12 @@
+base
+datasets
+devtools
+graphics
+grDevices
+methods
+samplesize
+shiny
+shinyapps
+slidify
+stats
+utils
